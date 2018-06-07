@@ -1,4 +1,4 @@
-  <h1 align="center"> PoC-BinaryParser </h1>
+  <h1 align="center"> PoC-CPU Instruction Parser </h1>
 
 Parse Hex/Binary Strings according to a CPU. 
 Only some instructions/memory addressing modes added, however, you could add more easily (and or customize the already added instructions.
